@@ -1,4 +1,4 @@
-### Hi, I'm Fahrtin 👋
+### Hi, I'm Fahrtin
 
 IT & Information Systems student at the **University of Agder**. I like building
 practical tools that turn messy real-world data — sensor exports, video, audio —
@@ -6,7 +6,7 @@ into something people can actually use.
 
 ---
 
-#### 🔨 What I'm working on
+#### What I'm working on
 
 **IK Start analytics dashboard** · *internship project, 2026*
 A web dashboard for IK Start's football academy (U14–U19), built in a team of three.
@@ -29,7 +29,7 @@ at Kartverket review and validate the reports, with role-based access.
 
 ---
 
-#### 🧰 Tools I use
+#### Tools I use
 
 **Languages:** JavaScript · C# · Python · SQL
 **Backend & data:** Node.js · Express · ASP.NET Core · PostgreSQL · MariaDB
@@ -37,6 +37,6 @@ at Kartverket review and validate the reports, with role-based access.
 
 ---
 
-#### 📫 Get in touch
+#### Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/Fahrtin)
